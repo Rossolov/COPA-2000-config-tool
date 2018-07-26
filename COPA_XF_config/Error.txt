@@ -1,0 +1,24 @@
+Error_01 Incorrect mode code
+Error_02 Incorrect function character
+Error_04 Number of data bytes exceeded
+Error_05 Parity error
+Error_16 Entry > 10
+Error_17 Entry < 0
+Error_20 Entry > 20
+Error_21 Entry < 0.125
+Error_22 Entry outside of data range
+Error_38 Entry > 1000
+Error_39 Entry < 0.001
+Error_40 Frequency > 5kHz
+Error_41 Frequency too small
+Error_42 Entry > 2000
+Error_43 Entry < 0.1
+Error_44 Entry> 5
+Error_45 Entry < 0.01 
+Error_46 Entry too large
+Error_48 Incorrect value
+Error_56 Entry > 3000
+Error_58 Entry outside of data range 
+Error_99 Entry outside of data range
+Error_ Empty error responde
+
